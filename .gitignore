@@ -1,0 +1,5 @@
+node_modules/
+.gitconfig
+.idea
+npm-debug.log
+.DS_Store
