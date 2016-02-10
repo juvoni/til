@@ -7,7 +7,10 @@ A collection of concise write-ups on small things I learn day to day across a va
 
 -----------------
 
-##Git
+## Categories
+* [Git](#git)
 
-- (Checkout File From Another Branch)[git/checkout-file-from-another-branch.md] 
-- (Rename Branch)[git/rename-branch.md] 
+###Git
+
+- [Checkout File From Another Branch](git/checkout-file-from-another-branch.md)
+- [Rename Branch](git/rename-branch.md)
