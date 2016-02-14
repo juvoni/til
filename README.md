@@ -2,13 +2,13 @@
 > Today I Learned
 
 A collection of concise write-ups on small things I learn day to day across a variety of languages and technologies. 
-
-5 TILs and counting..
+6 TILs and counting..
 
 -----------------
 
 ## Categories
 * [Git](#git)
+* [JavaScript](#JavaScript)
 
 ###Git
 
@@ -17,3 +17,7 @@ A collection of concise write-ups on small things I learn day to day across a va
 - [Pull Commit Into Current Branch](git/pull-commit-into-branch.md)
 - [Pull Range of Commits Into Current Branch](git/pull-range-of-commits-into-branch.md)
 - [Remove Unmerged File](git/remove-unmerged-file.md)
+
+###JavaScript
+
+-[Namespaced Events](javascript/namespaced-events.md)
