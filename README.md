@@ -2,7 +2,7 @@
 > Today I Learned
 
 A collection of concise write-ups on small things I learn day to day across a variety of languages and technologies. 
-6 TILs and counting..
+7 TILs and counting..
 
 -----------------
 
@@ -20,4 +20,5 @@ A collection of concise write-ups on small things I learn day to day across a va
 
 ###JavaScript
 
--[Namespaced Events](javascript/namespaced-events.md)
+- [Namespaced Events](javascript/namespaced-events.md)
+- [Measure Function Performance](javascript/measure-function-performance.md)
