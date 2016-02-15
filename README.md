@@ -1,8 +1,9 @@
 # Til
 > Today I Learned
 
-A collection of concise write-ups on small things I learn day to day across a variety of languages and technologies. 
-7 TILs and counting..
+A collection of concise write-ups on small things I learn day to day across a variety of languages and technologies.
+
+8 TILs and counting..
 
 -----------------
 
@@ -17,6 +18,7 @@ A collection of concise write-ups on small things I learn day to day across a va
 - [Pull Commit Into Current Branch](git/pull-commit-into-branch.md)
 - [Pull Range of Commits Into Current Branch](git/pull-range-of-commits-into-branch.md)
 - [Remove Unmerged File](git/remove-unmerged-file.md)
+- [Update Local Project Commit Author](git/update-local-project-commit-author.md)
 
 ###JavaScript
 
