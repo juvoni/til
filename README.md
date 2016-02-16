@@ -3,7 +3,7 @@
 
 A collection of concise write-ups on small things I learn day to day across a variety of languages and technologies.
 
-8 TILs and counting..
+9 TILs and counting..
 
 -----------------
 
@@ -19,6 +19,7 @@ A collection of concise write-ups on small things I learn day to day across a va
 - [Pull Range of Commits Into Current Branch](git/pull-range-of-commits-into-branch.md)
 - [Remove Unmerged File](git/remove-unmerged-file.md)
 - [Update Local Project Commit Author](git/update-local-project-commit-author.md)
+- [Git Delete All Branches With Prefix](git/git-delete-all-branches-with-prefix.md)
 
 ###JavaScript
 
