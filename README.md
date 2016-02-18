@@ -28,8 +28,8 @@ A collection of concise write-ups on small things I learn day to day across a va
 - [Namespaced Events](javascript/namespaced-events.md)
 - [Measure Function Performance](javascript/measure-function-performance.md)
 
-####ES6
-- [Assignment Destructuring](javascript/es6/destructing.md)
+###ES6
+- [Assignment Destructuring](javascript/ES6/destructing.md)
 
 ###npm
 - [List Globally Installed Packages](npm/list-global-installed-packages.md)
