@@ -3,13 +3,14 @@
 
 A collection of concise write-ups on small things I learn day to day across a variety of languages and technologies.
 
-10 TILs and counting..
+11 TILs and counting..
 
 -----------------
 
 ## Categories
 * [Git](#git)
 * [JavaScript](#JavaScript)
+* [ES6](#ES6)
 * [npm](#npm)
 
 ###Git
@@ -26,6 +27,9 @@ A collection of concise write-ups on small things I learn day to day across a va
 
 - [Namespaced Events](javascript/namespaced-events.md)
 - [Measure Function Performance](javascript/measure-function-performance.md)
+
+####ES6
+- [Assignment Destructuring](javascript/es6/destructing.md)
 
 ###npm
 - [List Globally Installed Packages](npm/list-global-installed-packages.md)
