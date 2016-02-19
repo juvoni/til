@@ -3,7 +3,7 @@
 
 A collection of concise write-ups on small things I learn day to day across a variety of languages and technologies.
 
-11 TILs and counting..
+12 TILs and counting..
 
 -----------------
 
@@ -30,6 +30,7 @@ A collection of concise write-ups on small things I learn day to day across a va
 
 ###ES6
 - [Assignment Destructuring](javascript/ES6/destructing.md)
+- [Arrow Functions](javascript/ES6/arrow-functions.md)
 
 ###npm
 - [List Globally Installed Packages](npm/list-global-installed-packages.md)
