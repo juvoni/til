@@ -3,13 +3,13 @@
 
 A collection of concise write-ups on small things I learn day to day across a variety of languages and technologies.
 
-13 TILs and counting..
+14 TILs and counting..
 
 -----------------
 
 ## Categories
 * [Git](#git)
-* [JavaScript](#JavaScript)
+* [JavaScript](#javascript)
 * [ES6](#ES6)
 * [npm](#npm)
 
@@ -22,6 +22,7 @@ A collection of concise write-ups on small things I learn day to day across a va
 - [Remove Unmerged File](git/remove-unmerged-file.md)
 - [Update Local Project Commit Author](git/update-local-project-commit-author.md)
 - [Git Delete All Branches With Prefix](git/git-delete-all-branches-with-prefix.md)
+- [What is git tag?](git/what-is-git-tag.md)
 
 ###JavaScript
 
