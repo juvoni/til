@@ -3,7 +3,7 @@
 
 A collection of concise write-ups on small things I learn day to day across a variety of languages and technologies.
 
-15 TILs and counting..
+16 TILs and counting..
 
 -----------------
 
@@ -31,6 +31,7 @@ A collection of concise write-ups on small things I learn day to day across a va
 - [Check if Object is Empty](javascript/check-empty-object.md)
 
 ###ES6
+- [Let + Const](javascript/ES6/let-const.md)
 - [Assignment Destructuring](javascript/ES6/destructing.md)
 - [Arrow Functions](javascript/ES6/arrow-functions.md)
 - [Classes](javascript/ES6/classes.md)
