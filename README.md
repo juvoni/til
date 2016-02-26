@@ -3,7 +3,7 @@
 
 A collection of concise write-ups on small things I learn day to day across a variety of languages and technologies.
 
-17 TILs and counting..
+18 TILs and counting..
 
 -----------------
 
@@ -29,6 +29,7 @@ A collection of concise write-ups on small things I learn day to day across a va
 - [Namespaced Events](javascript/namespaced-events.md)
 - [Measure Function Performance](javascript/measure-function-performance.md)
 - [Check if Object is Empty](javascript/check-empty-object.md)
+- [HTML Escape]('javascript/html-escape.md')
 
 ###ES6
 - [Let + Const](javascript/ES6/let-const.md)
