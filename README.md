@@ -3,7 +3,7 @@
 
 A collection of concise write-ups on small things I learn day to day across a variety of languages and technologies.
 
-18 TILs and counting..
+19 TILs and counting..
 
 -----------------
 
@@ -23,6 +23,7 @@ A collection of concise write-ups on small things I learn day to day across a va
 - [Update Local Project Commit Author](git/update-local-project-commit-author.md)
 - [Git Delete All Branches With Prefix](git/git-delete-all-branches-with-prefix.md)
 - [What is git tag?](git/what-is-git-tag.md)
+- [Get Count of All Contributor Commits](git/get-count-of-contributor-commits.md)
 
 ###JavaScript
 
