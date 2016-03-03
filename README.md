@@ -3,7 +3,7 @@
 
 A collection of concise write-ups on small things I learn day to day across a variety of languages and technologies.
 
-23 TILs and counting..
+24 TILs and counting..
 
 -----------------
 
@@ -42,6 +42,7 @@ A collection of concise write-ups on small things I learn day to day across a va
 - [Symbols](javascript/ES6/symbols.md)
 - [Maps](javascript/ES6/maps.md)
 - [Promises](javascript/ES6/promises.md)
+- [Strings](javascript/ES6/strings.md)
 
 ###npm
 - [List Globally Installed Packages](npm/list-global-installed-packages.md)
