@@ -43,6 +43,7 @@ A collection of concise write-ups on small things I learn day to day across a va
 - [Maps](javascript/ES6/maps.md)
 - [Promises](javascript/ES6/promises.md)
 - [Strings](javascript/ES6/strings.md)
+- [Modules](javascript/ES6/modules.md)
 
 ###npm
 - [List Globally Installed Packages](npm/list-global-installed-packages.md)
