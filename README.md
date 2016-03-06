@@ -3,7 +3,11 @@
 
 A collection of concise write-ups on small things I learn day to day across a variety of languages and technologies.
 
+<<<<<<< 4d9e886304db2e71a0efa1033f71a4e5131f67b4
 24 TILs and counting..
+=======
+27 TILs and counting..
+>>>>>>> React Components
 
 -----------------
 
@@ -11,9 +15,10 @@ A collection of concise write-ups on small things I learn day to day across a va
 * [Git](#git)
 * [JavaScript](#javascript)
 * [ES6](#ES6)
+* [React](#React)
 * [npm](#npm)
 
-###Git
+### Git
 
 - [Checkout File From Another Branch](git/checkout-file-from-another-branch.md)
 - [Rename Branch](git/rename-branch.md)
@@ -26,14 +31,14 @@ A collection of concise write-ups on small things I learn day to day across a va
 - [Get Count of All Contributor Commits](git/get-count-of-contributor-commits.md)
 - [Undo a Git Mistake](git/undo-git-mistake.md)
 
-###JavaScript
+### JavaScript
 
 - [Namespaced Events](javascript/namespaced-events.md)
 - [Measure Function Performance](javascript/measure-function-performance.md)
 - [Check if Object is Empty](javascript/check-empty-object.md)
 - [HTML Escape]('javascript/html-escape.md')
 
-###ES6
+### ES6
 - [Let + Const](javascript/ES6/let-const.md)
 - [Assignment Destructuring](javascript/ES6/destructing.md)
 - [Arrow Functions](javascript/ES6/arrow-functions.md)
@@ -45,5 +50,8 @@ A collection of concise write-ups on small things I learn day to day across a va
 - [Strings](javascript/ES6/strings.md)
 - [Modules](javascript/ES6/modules.md)
 
-###npm
+### React
+-[Component Organization](javascript/react/component-organization.md)
+
+### npm
 - [List Globally Installed Packages](npm/list-global-installed-packages.md)
