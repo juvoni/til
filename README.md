@@ -3,13 +3,7 @@
 
 A collection of concise write-ups on small things I learn day to day across a variety of languages and technologies.
 
-<<<<<<< 4d9e886304db2e71a0efa1033f71a4e5131f67b4
-24 TILs and counting..
-=======
 27 TILs and counting..
->>>>>>> React Components
-
------------------
 
 ## Categories
 * [Git](#git)
