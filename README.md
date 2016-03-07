@@ -3,7 +3,7 @@
 
 A collection of concise write-ups on small things I learn day to day across a variety of languages and technologies.
 
-27 TILs and counting..
+28 TILs and counting..
 
 ## Categories
 * [Git](#git)
@@ -45,7 +45,8 @@ A collection of concise write-ups on small things I learn day to day across a va
 - [Modules](javascript/ES6/modules.md)
 
 ### React
--[Component Organization](javascript/react/component-organization.md)
+- [Component Organization](javascript/react/component-organization.md)
+- [Use PropTypes](javascript/react/use-proptypes.md)
 
 ### npm
 - [List Globally Installed Packages](npm/list-global-installed-packages.md)
