@@ -3,7 +3,7 @@
 
 A collection of concise write-ups on small things I learn day to day across a variety of languages and technologies.
 
-29 TILs and counting..
+30 TILs and counting..
 
 ## Categories
 * [Git](#git)
@@ -44,6 +44,7 @@ A collection of concise write-ups on small things I learn day to day across a va
 - [Strings](javascript/ES6/strings.md)
 - [Template Strings](javascript/ES6/template-strings.md)
 - [Modules](javascript/ES6/modules.md)
+- [Spread Operator]((javascript/ES6/spread-operator.md)
 
 ### React
 - [Component Organization](javascript/react/component-organization.md)
