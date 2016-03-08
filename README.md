@@ -44,7 +44,7 @@ A collection of concise write-ups on small things I learn day to day across a va
 - [Strings](javascript/ES6/strings.md)
 - [Template Strings](javascript/ES6/template-strings.md)
 - [Modules](javascript/ES6/modules.md)
-- [Spread Operator]((javascript/ES6/spread-operator.md)
+- [Spread Operator](javascript/ES6/spread-operator.md)
 
 ### React
 - [Component Organization](javascript/react/component-organization.md)

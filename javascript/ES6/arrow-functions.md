@@ -52,6 +52,6 @@ const squares = arr.map(x => x * x); // Arrow Function for terser implementation
 - When using a code block, there's no implicit return, you'll have to provide it -- () => { return 'foo' }
 
 
-(Source)[https://github.com/DrkSephy/es6-cheatsheet#arrow-functions]
+[Source](https://github.com/DrkSephy/es6-cheatsheet#arrow-functions)
 
 
