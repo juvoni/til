@@ -3,7 +3,7 @@
 
 A collection of concise write-ups on small things I learn day to day across a variety of languages and technologies.
 
-31 TILs and counting..
+32 TILs and counting..
 
 ## Categories
 * [Git](#git)
@@ -24,6 +24,7 @@ A collection of concise write-ups on small things I learn day to day across a va
 - [What is git tag?](git/what-is-git-tag.md)
 - [Get Count of All Contributor Commits](git/get-count-of-contributor-commits.md)
 - [Undo a Git Mistake](git/undo-git-mistake.md)
+- [View List of Conflicted FIles](git/view-list-of-conflicted-files.md)
 
 ### JavaScript
 
