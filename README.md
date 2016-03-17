@@ -8,8 +8,8 @@ A collection of concise write-ups on small things I learn day to day across a va
 ## Categories
 * [Git](#git)
 * [JavaScript](#javascript)
-* [ES6](#ES6)
-* [React](#React)
+* [ES6](#es6)
+* [React](#react)
 * [npm](#npm)
 
 ### Git
