@@ -7,6 +7,7 @@ A collection of concise write-ups on small things I learn day to day across a va
 
 ## Categories
 * [Git](#git)
+* [CSS](#css)
 * [JavaScript](#javascript)
 * [ES6](#es6)
 * [React](#react)
@@ -25,6 +26,10 @@ A collection of concise write-ups on small things I learn day to day across a va
 - [Get Count of All Contributor Commits](git/get-count-of-contributor-commits.md)
 - [Undo a Git Mistake](git/undo-git-mistake.md)
 - [View List of Conflicted FIles](git/view-list-of-conflicted-files.md)
+
+### CSS
+
+- [Center Anything](css/center.md)
 
 ### JavaScript
 
