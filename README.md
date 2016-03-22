@@ -3,7 +3,7 @@
 
 A collection of concise write-ups on small things I learn day to day across a variety of languages and technologies.
 
-33 TILs and counting..
+34 TILs and counting..
 
 ## Categories
 * [Git](#git)
@@ -26,6 +26,7 @@ A collection of concise write-ups on small things I learn day to day across a va
 - [Get Count of All Contributor Commits](git/get-count-of-contributor-commits.md)
 - [Undo a Git Mistake](git/undo-git-mistake.md)
 - [View List of Conflicted FIles](git/view-list-of-conflicted-files.md)
+- [Change author name/emails on all commits](git/change-author-of-all-commits.md)
 
 ### CSS
 
