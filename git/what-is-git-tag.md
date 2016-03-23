@@ -11,20 +11,15 @@ CharlesB's answer and helmbert's answer are both helpful, but it took me a while
     - At the time of creating a tag, by implying the commit that the tag will point to:
         - Not specifying a target for a tag defaults to the current branch's most recent commit (a.k.a. HEAD); e.g.:
         
-        ``` 
-        git tag v0.1.0            # tags HEAD of *current* branch
-         ```
+        ``git tag v0.1.0``            # tags HEAD of *current* branch
 
     - Specifying a branch name as the tag target defaults to that branch's most recent commit; e.g.:
-    ```
-    git tag v0.1.0  develop   # tags HEAD of 'develop' branch
-    ``` 
+    ``git tag v0.1.0  develop``   # tags HEAD of 'develop' branch
 
 (As others have noted, you can also specify a commit ID explicitly as the tag's target.)
 
 - When using git describe to describe the current branch:
-```
-git describe [--tags]``` describes the current branch in terms of the commits since the most recent [possibly lightweight] tag in this branch's history.
+``git describe [--tags]`` describes the current branch in terms of the commits since the most recent [possibly lightweight] tag in this branch's history.
     - Thus, the tag referenced by git describe may NOT reflect the most recently created tag overall.
 
 [Source](http://stackoverflow.com/questions/14613540/git-tag-in-branches)

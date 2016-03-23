@@ -3,7 +3,7 @@
 
 A collection of concise write-ups on small things I learn day to day across a variety of languages and technologies.
 
-34 TILs and counting..
+36 TILs and counting..
 
 ## Categories
 * [Git](#git)
@@ -23,6 +23,8 @@ A collection of concise write-ups on small things I learn day to day across a va
 - [Update Local Project Commit Author](git/update-local-project-commit-author.md)
 - [Git Delete All Branches With Prefix](git/git-delete-all-branches-with-prefix.md)
 - [What is git tag?](git/what-is-git-tag.md)
+- [View list of tags](git/view-list-of-tags.md)
+- [Push tags to Remote](git/git-push-tags-to-remote.md)
 - [Get Count of All Contributor Commits](git/get-count-of-contributor-commits.md)
 - [Undo a Git Mistake](git/undo-git-mistake.md)
 - [View List of Conflicted FIles](git/view-list-of-conflicted-files.md)
