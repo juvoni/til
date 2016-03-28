@@ -3,7 +3,7 @@
 
 A collection of concise write-ups on small things I learn day to day across a variety of languages and technologies.
 
-36 TILs and counting..
+37 TILs and counting..
 
 ## Categories
 * [Git](#git)
