@@ -3,7 +3,7 @@
 
 A collection of concise write-ups on small things I learn day to day across a variety of languages and technologies.
 
-37 TILs and counting..
+38 TILs and counting..
 
 ## Categories
 * [Git](#git)
@@ -12,6 +12,7 @@ A collection of concise write-ups on small things I learn day to day across a va
 * [ES6](#es6)
 * [React](#react)
 * [npm](#npm)
+* [unix](#unix)
 
 ### Git
 
@@ -64,6 +65,9 @@ A collection of concise write-ups on small things I learn day to day across a va
 ### npm
 - [List Globally Installed Packages](npm/list-global-installed-packages.md)
 - [View Local Package Version](npm/view-local-package-version.md)
+
+### unix
+- [View Alias Command](unix/view-alias-command.md)
 
 ## Other TIL Collections
 
